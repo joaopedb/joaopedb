@@ -52,14 +52,3 @@ camada de interface ou back-end completo.
 > Também mantenho aqui projetos acadêmicos da graduação, como Estrutura de Dados (`Projeto-Leda`),
 > Computação Gráfica e um mini sistema bancário em Java.
 
----
-
-### GitHub em números
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedb&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
