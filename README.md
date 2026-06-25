@@ -44,7 +44,6 @@ camada de interface ou back-end completo.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **Automação fiscal** (`automacao-sefaz` · `monitor-mediador` · `inutilizacoes-nfce`) | Automações para integração com a SEFAZ, monitoramento do Mediador e inutilização de NFC-e | Python · Playwright |
-| **backend-auditoria** | Back-end voltado a processos de auditoria | — |
 | **[spotify-analytics-fullstack](https://github.com/joaopedb/spotify-analytics-fullstack)** | Aplicação full stack que analisa o histórico do Spotify e gera rankings personalizados de artistas, músicas e álbuns | React · Node.js · OAuth 2.0 |
 | **[diario-de-contatos-react](https://github.com/joaopedb/diario-de-contatos-react)** | CRUD completo de contatos com roteamento e API simulada | React · React Router · JSON-Server |
 | **[eventos-crud-laravel](https://github.com/joaopedb/eventos-crud-laravel)** | Sistema de gerenciamento de eventos com CRUD completo | PHP · Laravel |
