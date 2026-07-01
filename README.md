@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro Bandeira</h1>
 
 <p align="center">
-  <strong>Software Engineer · Foco em Automação de Processos (RPA)</strong>
+  <strong>Software Engineer · Automação de Processos (RPA)</strong>
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 
 ### Sobre
 
-Sou graduando em Ciência da Computação pela UEPB e atuo como Software Engineer com foco em
+Graduando em Ciência da Computação pela UEPB e atuo como Software Engineer com foco em
 **automação de processos (RPA)**. Trabalho principalmente com **Python e Playwright** para
 construir automações robustas — desde a coleta e o tratamento de dados até a integração com
-sistemas e portais web. Também desenvolvo aplicações full stack quando o projeto pede uma
-camada de interface ou back-end completo.
+sistemas e portais web. Também desenvolvo aplicações full stack.
 
 ---
 
